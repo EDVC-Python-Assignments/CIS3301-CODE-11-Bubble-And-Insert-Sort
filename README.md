@@ -2,7 +2,7 @@
 
 ## Instructions
 
-In this CODE assignment you are asked to implement a bubble and a insert sort algorithm in Python. 
+In this CODE assignment you are asked to implement a bubble and an insert sort algorithm in Python. 
 
 + Bubble Sort Algorithm
   +  Implement your code in `get_bubble_sorted_list`
