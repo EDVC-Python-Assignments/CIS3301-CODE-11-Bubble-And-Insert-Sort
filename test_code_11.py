@@ -1,12 +1,12 @@
 import os
 import sys
 import random
-from code_10 import get_bubble_sorted_list
-from code_10 import get_insert_sorted_list
+from code_11 import get_bubble_sorted_list
+from code_11 import get_insert_sorted_list
 
 def check_if_file_exists():
     try:
-        exists = os.path.exists("code_10.py")
+        exists = os.path.exists("code_11.py")
         assert exists == True
     except:
         sys.exit()
