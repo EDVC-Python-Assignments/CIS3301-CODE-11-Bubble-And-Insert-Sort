@@ -1,1 +1,1 @@
-# CIS3301-CODE-10-Bubble-Sort
+# CIS3301-CODE-11-Bubble-And-Insert-Sort-Algorithms
